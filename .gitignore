@@ -1,0 +1,3 @@
+*.md
+data/db.json
+./gott-cli
